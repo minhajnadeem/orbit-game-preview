@@ -1,0 +1,14 @@
+{
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "trivia-demo-3b193",
+          "configurations": {
+            "web": "1:123911485079:web:094e666b0f50fc14ea9bd2"
+          }
+        }
+      }
+    }
+  }
+}
